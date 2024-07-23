@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parkilwoo/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/parkilwoo/Leetcode_practice/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parkilwoo/Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0217-contains-duplicate](https://github.com/parkilwoo/Leetcode_practice/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/parkilwoo/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/parkilwoo/Leetcode_practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
