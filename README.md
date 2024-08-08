@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parkilwoo/Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/parkilwoo/Leetcode_practice/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parkilwoo/Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parkilwoo/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
