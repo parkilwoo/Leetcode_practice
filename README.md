@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parkilwoo/Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/parkilwoo/Leetcode_practice/tree/master/0039-combination-sum) |
 | [0217-contains-duplicate](https://github.com/parkilwoo/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/parkilwoo/Leetcode_practice/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
