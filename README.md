@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parkilwoo/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/parkilwoo/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/parkilwoo/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/parkilwoo/Leetcode_practice/tree/master/0097-interleaving-string) |
 | [0242-valid-anagram](https://github.com/parkilwoo/Leetcode_practice/tree/master/0242-valid-anagram) |
 ## Sliding Window
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/parkilwoo/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/parkilwoo/Leetcode_practice/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
