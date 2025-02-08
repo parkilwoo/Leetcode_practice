@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/parkilwoo/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/parkilwoo/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/parkilwoo/Leetcode_practice/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/parkilwoo/Leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/parkilwoo/Leetcode_practice/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parkilwoo/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/parkilwoo/Leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/parkilwoo/Leetcode_practice/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
