@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/parkilwoo/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parkilwoo/Leetcode_practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/parkilwoo/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/parkilwoo/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/parkilwoo/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/parkilwoo/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parkilwoo/Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/parkilwoo/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/parkilwoo/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/parkilwoo/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parkilwoo/Leetcode_practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/parkilwoo/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -106,4 +110,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/parkilwoo/Leetcode_practice/tree/master/0143-reorder-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/parkilwoo/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/parkilwoo/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/parkilwoo/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/parkilwoo/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
