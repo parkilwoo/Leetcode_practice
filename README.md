@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parkilwoo/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/parkilwoo/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/parkilwoo/Leetcode_practice/tree/master/0097-interleaving-string) |
 ## Tree
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/parkilwoo/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/parkilwoo/Leetcode_practice/tree/master/0789-kth-largest-element-in-a-stream) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/parkilwoo/Leetcode_practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
