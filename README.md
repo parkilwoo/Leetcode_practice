@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/parkilwoo/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/parkilwoo/Leetcode_practice/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/parkilwoo/Leetcode_practice/tree/master/0155-min-stack) |
 ## Recursion
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/parkilwoo/Leetcode_practice/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/parkilwoo/Leetcode_practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
