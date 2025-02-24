@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/parkilwoo/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0747-min-cost-climbing-stairs](https://github.com/parkilwoo/Leetcode_practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/parkilwoo/Leetcode_practice/tree/master/0792-binary-search) |
+| [1127-last-stone-weight](https://github.com/parkilwoo/Leetcode_practice/tree/master/1127-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/parkilwoo/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/parkilwoo/Leetcode_practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/parkilwoo/Leetcode_practice/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
