@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parkilwoo/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/parkilwoo/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/parkilwoo/Leetcode_practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/parkilwoo/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/parkilwoo/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/parkilwoo/Leetcode_practice/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/parkilwoo/Leetcode_practice/tree/master/0125-valid-palindrome) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parkilwoo/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/parkilwoo/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/parkilwoo/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/parkilwoo/Leetcode_practice/tree/master/0097-interleaving-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/parkilwoo/Leetcode_practice/tree/master/0747-min-cost-climbing-stairs) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/parkilwoo/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/parkilwoo/Leetcode_practice/tree/master/0039-combination-sum) |
 ## Linked List
 |  |
