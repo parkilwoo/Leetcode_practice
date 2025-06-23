@@ -1,9 +1,7 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hash_sub = {}
-        for i in range(len(nums)):
-            num = nums[i]
-            if hash_sub.get(num) is not None:
-                return [hash_sub.get(num), i]
-            sub_val = target - nums[i]
-            hash_sub[sub_val] = i
+        nums_len = len(nums)
+        for i in range(nums_len - 1):
+            for j in range(i+1, nums_len, 1):
+                if nums[i] + nums[j] == target:
+                    return [i, j]
