@@ -1,7 +1,9 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        nums_len = len(nums)
-        for i in range(nums_len - 1):
-            for j in range(i+1, nums_len, 1):
-                if nums[i] + nums[j] == target:
-                    return [i, j]
+        memoization = {}
+        for i in range(len(nums)):
+            num_v = nums[i]
+            minus_val = target - num_v
+            if memoization.get(minus_val) is not None:
+                return [memoization.get(minus_val), i]
+            memoization[num_v] = i
