@@ -1,28 +1,22 @@
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-
+        
         if not nums:
             return 0
 
-        nums.sort()
-
         max_len = 0
-        before_val = nums[0]
-        cur_len = 1
-        for i, num in enumerate(nums[1:]):
-            if before_val == num:
-                continue
-            if before_val+1 == num:
-                cur_len += 1
-            else:
-                if cur_len > max_len:
-                    max_len = cur_len
-                if max_len > len(nums)-i:
-                    break
-                cur_len = 1
-            before_val = num
-
-        return max(max_len, cur_len)
+        set_nums = set(nums) # in과 not in 연산을 O(1)로 만들기 위해
+        
+        for num in set_nums:
+            # 현재의 숫자가 연속된 숫자의 처음 숫자일 경우 
+            if (num-1) not in set_nums:
+                length = 1
+                # 현재 숫자의 다음 숫자가 set에 포함되어 있다면 연속된 숫자
+                while num+length in set_nums:
+                    length += 1
+                max_len = max(max_len, length)
+        
+        return max_len
 
                 
             
