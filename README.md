@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/parkilwoo/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/parkilwoo/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/parkilwoo/Leetcode_practice/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/parkilwoo/Leetcode_practice/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/parkilwoo/Leetcode_practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/parkilwoo/Leetcode_practice/tree/master/0792-binary-search) |
 | [1127-last-stone-weight](https://github.com/parkilwoo/Leetcode_practice/tree/master/1127-last-stone-weight) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/parkilwoo/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/parkilwoo/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/parkilwoo/Leetcode_practice/tree/master/0724-find-pivot-index) |
 ## Matrix
 |  |
 | ------- |
