@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/parkilwoo/Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/parkilwoo/Leetcode_practice/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/parkilwoo/Leetcode_practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/parkilwoo/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/parkilwoo/Leetcode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parkilwoo/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/parkilwoo/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parkilwoo/Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/parkilwoo/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/parkilwoo/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parkilwoo/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/parkilwoo/Leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/parkilwoo/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/parkilwoo/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/parkilwoo/Leetcode_practice/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parkilwoo/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
