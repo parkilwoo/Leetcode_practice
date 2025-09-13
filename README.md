@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/parkilwoo/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/parkilwoo/Leetcode_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/parkilwoo/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/parkilwoo/Leetcode_practice/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/parkilwoo/Leetcode_practice/tree/master/0645-set-mismatch) |
 ## String
 |  |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/parkilwoo/Leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/parkilwoo/Leetcode_practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/parkilwoo/Leetcode_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/parkilwoo/Leetcode_practice/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parkilwoo/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/parkilwoo/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/parkilwoo/Leetcode_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/parkilwoo/Leetcode_practice/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/parkilwoo/Leetcode_practice/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/parkilwoo/Leetcode_practice/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
