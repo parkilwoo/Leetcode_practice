@@ -1,21 +1,20 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        stack_list = []
-        bracket_couple = {
-            ")": "(",
-            "}": "{",
-            "]": "["
-        }
+        set_dict = {
+            ')': '(',
+            '}': '{',
+            ']': '['
+        } 
 
-        for bracket in s:
-            if bracket_couple.get(bracket):
-                if not stack_list:
+        stack = []
+        for ch in s:
+            if ch in set_dict:
+                if not stack:
                     return False
-                if stack_list.pop() != bracket_couple.get(bracket):
+                op = stack.pop()
+                if op != set_dict[ch]:
                     return False
             else:
-                stack_list.append(bracket)
-
-        if not stack_list:
-            return True
-        return False
+                stack.append(ch)
+        
+        return len(stack) == 0
