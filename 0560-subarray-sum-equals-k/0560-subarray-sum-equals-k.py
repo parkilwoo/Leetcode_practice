@@ -1,40 +1,27 @@
+from collections import defaultdict
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
         """
-        부분수열의 합이 K와 같은 갯수 찾기
-        nums의 길이는 1부터 200000
-        각 요소는 -1000 ~ 1000까지 가능
+        정수 배열 nums가 있을 때, 부분배열의 합이 k가 될 때 부분배열의 갯수를 리턴?
+
+        어떤 구간(i, j | j>i)의 부분배열의 부분합 = prefix_sum[j] - prefix_sum[i] = k
+        prefix_sum[i] = prefix_sum[j] - k
+
+        즉 현재 누적합에서 k를 뺀 값이 과거의 누적합에 몇번 등장했는지 확인
         """
-        result = 0
+        prefix_sum = 0
+        prefix_sum_map = defaultdict(int)
+        prefix_sum_map[0] = 1
+        cnt = 0
 
-        # 1. Brute force 방식 O(N**2)
-        # for i in range(len(nums)):
-        #     total_sum = nums[i]
-        #     if total_sum == k:
-        #         result += 1
-        #     for j in range(i+1, len(nums)):
-        #         total_sum += nums[j]
-        #         if total_sum == k:
-        #             result += 1
+        for num in nums:
+            # 누적합
+            prefix_sum += num
+            if prefix_sum - k in prefix_sum_map:
+                cnt += prefix_sum_map[prefix_sum - k]
+            # 현재까지 누적합 개수 기록
+            prefix_sum_map[prefix_sum] = prefix_sum_map.get(prefix_sum, 0) + 1
 
-        # return result
+        return cnt
+
         
-        # 2. 부분합 방식
-        prefix_sum = [0] * len(nums)
-        prefix_sum[0] = nums[0]
-        for i in range(1, len(nums)):
-            num = nums[i]
-            prefix_sum[i] = prefix_sum[i-1] + num
-        # prefix_sum[i] - prefix_sum[j-1] = k
-        # prefix_sum[j-1] = prefix_sum[i] - k
-        # 즉, 현재까지의 누적합에서 k(목표값)를 뺀 값이 과거에 몇번 나왔는지 확인하면 됨
-
-        # prefix_sum의 갯수가 몇개인지 확인하는 hash
-        count = {0: 1}
-        
-        for prefix in prefix_sum:
-            if prefix - k in count:
-                result += count.get(prefix-k)
-            count[prefix] = count.get(prefix, 0) + 1
-
-        return result
