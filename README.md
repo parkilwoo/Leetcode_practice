@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/parkilwoo/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/parkilwoo/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/parkilwoo/Leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/parkilwoo/Leetcode_practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/parkilwoo/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/parkilwoo/Leetcode_practice/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parkilwoo/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/parkilwoo/Leetcode_practice/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/parkilwoo/Leetcode_practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/parkilwoo/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/parkilwoo/Leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0202-happy-number) |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/parkilwoo/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/parkilwoo/Leetcode_practice/tree/master/0200-number-of-islands) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/parkilwoo/Leetcode_practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
