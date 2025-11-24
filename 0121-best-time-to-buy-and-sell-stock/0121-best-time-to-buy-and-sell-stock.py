@@ -7,14 +7,15 @@ class Solution:
         구매한 날보다 이전날에는 판매할 수 없음
         배열의 길이가 10만까지이므로 최대 O(NlogN) 으로 구현
         """
-        profit = 0
-        if len(prices) == 1:
-            return profit
-        buy = prices[0]
-        for sell in prices[1:]:
-            if sell > buy:
-                profit = max(profit, sell - buy)
-            else:
-                buy = sell
-        return profit
+        res = 0
+        n = len(prices)
+        # dp[i] = i번째 날까지 살 수 있던 주식의 최소값
+        dp = [0] * n
+        dp[0] = prices[0]
+        for i in range(1, n):
+            price = prices[i]
+            dp[i] = min(dp[i-1], price)
+            res = max(res, price-dp[i])
+        
+        return res
         
