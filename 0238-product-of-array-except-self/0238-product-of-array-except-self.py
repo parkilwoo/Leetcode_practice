@@ -2,7 +2,6 @@ class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         # 1. brute force
         n = len(nums)
-        res = [1] * n
         # for i in range(n):
         #     prod = 1
         #     for j in range(n):
@@ -16,17 +15,17 @@ class Solution:
         # f(i) = left(i) * right(i)
         # left(i) = nums[0] * num[1] * ...nums[i-1]
         # right(i) = nums[i+1] * nums[i+2] * ... num[n-1]
-        left = [1] * n
-
-        for i in range(1, n):
-            left[i] = left[i-1] * nums[i-1]
-        
-        right = [1] * n
-        for i in range(n-2, -1, -1):
-            right[i] = right[i+1] * nums[i+1]
-
         res = [0] * n
+
+        left_val = 1
         for i in range(n):
-            res[i] = left[i] * right[i]
+            res[i] = left_val
+            left_val *= nums[i]
+        
+        right_val = 1
+        for i in range(n-1, -1, -1):
+            res[i] *= right_val
+            right_val *= nums[i]
 
         return res
+
