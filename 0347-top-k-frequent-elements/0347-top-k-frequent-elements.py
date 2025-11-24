@@ -1,11 +1,18 @@
+from collections import Counter
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        count_hash = {}
-        for num in nums:
-            if num not in count_hash:
-                count_hash[num] = 0
-            count_hash[num] = count_hash[num] + 1
+        # 가장 많이 나온 갯수 뽑기
+        num_counter = Counter(nums)
 
-        sorted_keys = sorted(count_hash.keys(), key=lambda item:count_hash.get(item), reverse=True)
-        return sorted_keys[:k]
+        # 1. sorting 방식
+        sorting = []
+        for num, cnt in num_counter.items():
+            sorting.append((cnt, num))
         
+        sorting.sort()
+        res = []
+        while k > 0:
+            res.append(sorting.pop()[1])
+            k -= 1
+
+        return res
