@@ -1,16 +1,14 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        """
-        정수형 배열 nums가 있을 때, 부분배열의 합 중 가자 큰 값을 구하기
-        특정 구간(i, j | j>i)까지의 부분합 = prefix_sum[j] - prefix_sum[i]
+        # 연속된 부분배열의 최대값을 구하는 것
+        # 연속된 부분 배열의 합이 음수일 경우 더할 필요가 없음 -> 새로 시작
+
+        res = -float('inf')
         
-        중요한건 이전까지의 누적합이 음수면 계속 더해도 최대값에 도움을 주지않음 -> 그러므로 시작점을 변경할 필요가 있음
-        """
-
-        prefix_sum = 0
-        max_score = -float('inf')
+        sum_val = 0
         for num in nums:
-            prefix_sum = max(num, prefix_sum+num)
-            max_score = max(max_score, prefix_sum)
-
-        return max_score
+            sum_val += num
+            res = max(res, sum_val)
+            if sum_val < 0:
+                sum_val = 0
+        return res
