@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/parkilwoo/Leetcode_practice/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/parkilwoo/Leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/parkilwoo/Leetcode_practice/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/parkilwoo/Leetcode_practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/parkilwoo/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/parkilwoo/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/parkilwoo/Leetcode_practice/tree/master/0055-jump-game) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/parkilwoo/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/parkilwoo/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/parkilwoo/Leetcode_practice/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/parkilwoo/Leetcode_practice/tree/master/0046-permutations) |
 ## Linked List
 |  |
 | ------- |
